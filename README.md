@@ -1,6 +1,6 @@
 # Student Management App
 
-This is a simple student management app built on console. It allows users to add, edit, view and delete student records.
+This is a simple student management app built on console to demonstrate and teach my friends Python. It allows users to add, edit, view and delete student records.
 
 ## Usage
 
